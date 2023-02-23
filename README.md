@@ -1,2 +1,2 @@
-# saml-test-nodejs
+# node-saml-example
 Created with CodeSandbox
